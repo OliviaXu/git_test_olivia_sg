@@ -1,9 +1,10 @@
 Database Name: Cache
 Settings:
-  Materialize View: true
+  Materialize View: false
   Metadata:
-    Description: hello world
+    Description: hello
     Owner: olivia@periscopedata.com
     Tags:
     - tag1
+    - tag10
   Publish as Dataset: true
