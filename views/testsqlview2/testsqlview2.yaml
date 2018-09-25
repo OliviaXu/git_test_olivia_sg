@@ -1,6 +1,6 @@
-Database Name: ssu
+Database Name: Cache
 Settings:
-  Exclude from Auto-Archive: true
+  Exclude from Auto-Archive: false
   Materialize View: false
   Metadata:
     Description: hello 2
