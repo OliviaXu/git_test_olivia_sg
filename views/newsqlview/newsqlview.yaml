@@ -1,0 +1,5 @@
+Database Name: Cache
+Settings:
+  Materialize View: true
+  Metadata:
+    Owner: olivia@periscopedata.com
