@@ -2,7 +2,7 @@ Database Name: Cache
 Settings:
   Materialize View: false
   Metadata:
-    Description: hello 200000
+    Description
     Owner: olivia@periscopedata.com
     Tags:
     - tag1
