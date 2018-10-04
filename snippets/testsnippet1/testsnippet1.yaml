@@ -2,7 +2,7 @@ Parameters:
 - g
 Settings:
   Metadata:
-    Description: hello world 8
+    Description
     Owner: olivia@periscopedata.com
     Tags:
     - tag1
